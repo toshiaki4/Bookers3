@@ -18,7 +18,7 @@ Bookers2をより使いやすくするため。
 ## 設計書
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1aOC5y6-bmiV913Lh6JcskBkrEWfroGjWAAUBNo-2Ep0/edit#gid=0
 
 ## 開発環境
 - OS：Linux(CentOS)
@@ -28,3 +28,6 @@ Bookers2をより使いやすくするため。
 - 仮想環境：Vagrant,VirtualBox
 
 ## 使用素材
+
+
+
